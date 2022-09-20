@@ -15,7 +15,9 @@
 </div>
 
 <div align="center">
-<p><img alingn="center" src="https://profile-counter.glitch.me/juninhocb/count.svg" /></p>  
+  <br>
+    <p> <img alingn="center" src="https://profile-counter.glitch.me/juninhocb/count.svg" /></p>  
+  </br>
 </div>
 
 
