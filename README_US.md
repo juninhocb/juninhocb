@@ -1,6 +1,6 @@
 
 
-###### <a href="https://github.com/juninhocb/juninhocb/blob/main/README.md" target="_blank">Mudar-me</a>   ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
+###### <a href="https://github.com/juninhocb" >Mudar-me</a>   ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
 
 ### Hi, I'm Carlos Eduardo Junior. 👋 
 
