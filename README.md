@@ -33,9 +33,12 @@
  <a href="https://discord.com/users/jrr#2419" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:juninhocb2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-junior-142326120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-  
+<br><br>
+
+<p>
+<a href="https://tryhackme.com/p/juninhocb">
+<img src="https://tryhackme-badges.s3.amazonaws.com/juninhocb.png" alt="THM"></a>
+</p>  
  
 </div>
 <!--
