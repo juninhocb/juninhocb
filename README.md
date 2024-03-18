@@ -16,7 +16,7 @@ I'm a passionate developer who loves delving into code even during my vacation t
 ### ⚡ Interests:
 - Solve math and physics problems to avoid rust
 - I don't play any type of electronic game, but I like the idea of ​​participating in a team that develops this type of application
-- Work with docker is Amazing and Spring has a great support for it
+- Docker/Kubernets
 
 ## 📑 Informations about my Github account
 <div align="center">
