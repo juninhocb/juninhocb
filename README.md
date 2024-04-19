@@ -1,6 +1,6 @@
 ### Hey there. 👋 
 
-I'm a passionate developer who loves delving into code even during my vacation time. I'm always exploring the extensive Spring framework and the fantastic new features of Java 21. 
+I'm a passionate developer who loves delving into code even during my vacation time. I'm always exploring the extensive Spring framework and the fantastic new features of Java 21 and 22. 
 
 ### 🔭 My daily/favorites Programming Languages
 - **C/C++:** Good understanding, which I've been learning since 2015 to the rest of my graduation, its like my partner in its extensive journey.
