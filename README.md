@@ -4,7 +4,7 @@ I'm a passionate developer who loves delving into code even during my vacation t
 
 ### 🔭 My daily/favorites Programming Languages
 - **C/C++:** Good understanding, which I've been learning since 2015 to the rest of my graduation, its like my partner in its extensive journey.
-- **Python:** Good understaing and proficience with Python, especially in automation field
+- **Python:** Good understaing and proficience with Python, especially in automation field.
 - **Java:** Solid understand and deep passion for Java and all things Java-related, including conferences and advocates whom I follow daily. I enjoy coding in Kotlin as well.
 - **JavaScript/TypeScript:** Primarily used for web applications, especially with ReactJS - So, its usefull.
 
