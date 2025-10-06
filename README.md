@@ -9,7 +9,7 @@ I'm a passionate developer who loves delving into code even during my vacation t
 - **JavaScript/TypeScript:** Primarily used for web applications, especially with ReactJS - So, its usefull.
 
 ### 🌱 In my study time
-- I'm currently learning: Cloud development, CI/CD, Miscellaneous Java or Spring topics.
+- I'm currently learning: Quarkus, Gradle, Miscellaneous Java or Spring topics.
 
 ### ✨ Automation:
 - I've developed an Amazon Skill application that I'm particularly proud of, which you can find here: [Alimentador Inteligente](https://www.amazon.com.br/Circuitec-Alimentador-Inteligente-VeryPet/dp/B0BF5XM84Y/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=C6NLQ8QKJCCZ&keywords=verypet&qid=1663243954&s=alexa-skills&sprefix=very%2Calexa-skills%2C367&sr=1-1). Check it out! 😄
